@@ -5,11 +5,6 @@ This repository contains two Python scripts that implement an OTP (One-Time Pass
 ## Table of Contents
 - [Overview](#overview)
 - [Prerequisites](#prerequisites)
-- [Setup Instructions](#setup-instructions)
-- [Usage](#usage)
-  - [Command-Line OTP System](#command-line-otp-system)
-  - [GUI OTP System](#gui-otp-system)
-- [Security Notes](#security-notes)
 - [License](#license)
 
 ## Overview
